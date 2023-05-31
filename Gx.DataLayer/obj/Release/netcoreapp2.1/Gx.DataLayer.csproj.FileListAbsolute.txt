@@ -1,0 +1,10 @@
+G:\Queue\Queue-Api\Gx.DataLayer\bin\Release\netcoreapp2.1\Gx.DataLayer.deps.json
+G:\Queue\Queue-Api\Gx.DataLayer\bin\Release\netcoreapp2.1\Gx.DataLayer.dll
+G:\Queue\Queue-Api\Gx.DataLayer\bin\Release\netcoreapp2.1\Gx.DataLayer.pdb
+G:\Queue\Queue-Api\Gx.DataLayer\obj\Release\netcoreapp2.1\Gx.DataLayer.csproj.AssemblyReference.cache
+G:\Queue\Queue-Api\Gx.DataLayer\obj\Release\netcoreapp2.1\Gx.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Queue\Queue-Api\Gx.DataLayer\obj\Release\netcoreapp2.1\Gx.DataLayer.AssemblyInfoInputs.cache
+G:\Queue\Queue-Api\Gx.DataLayer\obj\Release\netcoreapp2.1\Gx.DataLayer.AssemblyInfo.cs
+G:\Queue\Queue-Api\Gx.DataLayer\obj\Release\netcoreapp2.1\Gx.DataLayer.csproj.CoreCompileInputs.cache
+G:\Queue\Queue-Api\Gx.DataLayer\obj\Release\netcoreapp2.1\Gx.DataLayer.dll
+G:\Queue\Queue-Api\Gx.DataLayer\obj\Release\netcoreapp2.1\Gx.DataLayer.pdb

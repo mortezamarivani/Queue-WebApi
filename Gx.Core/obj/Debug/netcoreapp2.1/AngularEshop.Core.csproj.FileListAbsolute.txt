@@ -1,0 +1,13 @@
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.Core.deps.json
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.Core.dll
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.Core.pdb
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.dll
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.pdb
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.csproj.AssemblyReference.cache
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.AssemblyInfoInputs.cache
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.AssemblyInfo.cs
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.csproj.CoreCompileInputs.cache
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.csproj.CopyComplete
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.dll
+I:\NetCore\08_AngoulareEshop\13_AngularEshop\13_AngularEshop\back-end\back-end\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.pdb

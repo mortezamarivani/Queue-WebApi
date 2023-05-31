@@ -1,0 +1,10 @@
+G:\Planing\PlanningApi\Planning.DataLayer\bin\Release\netcoreapp2.1\Planning.DataLayer.deps.json
+G:\Planing\PlanningApi\Planning.DataLayer\bin\Release\netcoreapp2.1\Planning.DataLayer.dll
+G:\Planing\PlanningApi\Planning.DataLayer\bin\Release\netcoreapp2.1\Planning.DataLayer.pdb
+G:\Planing\PlanningApi\Planning.DataLayer\obj\Release\netcoreapp2.1\Planning.DataLayer.csproj.AssemblyReference.cache
+G:\Planing\PlanningApi\Planning.DataLayer\obj\Release\netcoreapp2.1\Planning.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Planing\PlanningApi\Planning.DataLayer\obj\Release\netcoreapp2.1\Planning.DataLayer.AssemblyInfoInputs.cache
+G:\Planing\PlanningApi\Planning.DataLayer\obj\Release\netcoreapp2.1\Planning.DataLayer.AssemblyInfo.cs
+G:\Planing\PlanningApi\Planning.DataLayer\obj\Release\netcoreapp2.1\Planning.DataLayer.csproj.CoreCompileInputs.cache
+G:\Planing\PlanningApi\Planning.DataLayer\obj\Release\netcoreapp2.1\Planning.DataLayer.dll
+G:\Planing\PlanningApi\Planning.DataLayer\obj\Release\netcoreapp2.1\Planning.DataLayer.pdb

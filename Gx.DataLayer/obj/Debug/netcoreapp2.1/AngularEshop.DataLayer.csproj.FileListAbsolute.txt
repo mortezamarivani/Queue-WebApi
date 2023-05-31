@@ -1,0 +1,10 @@
+G:\Question\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.deps.json
+G:\Question\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.dll
+G:\Question\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.pdb
+G:\Question\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.csproj.AssemblyReference.cache
+G:\Question\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Question\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.AssemblyInfoInputs.cache
+G:\Question\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.AssemblyInfo.cs
+G:\Question\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.csproj.CoreCompileInputs.cache
+G:\Question\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.dll
+G:\Question\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp2.1\AngularEshop.DataLayer.pdb

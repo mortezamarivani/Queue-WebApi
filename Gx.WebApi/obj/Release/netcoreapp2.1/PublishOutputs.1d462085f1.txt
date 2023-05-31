@@ -1,0 +1,17 @@
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.Development.json
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Gx.WebApi.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Gx.WebApi.runtimeconfig.json
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Gx.WebApi.pdb
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\AngleSharp.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\AngleSharp.Css.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\HtmlSanitizer.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\dotnet-ef.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\System.Text.Encoding.CodePages.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Gx.Core.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Gx.DataLayer.dll
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Gx.Core.pdb
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Gx.DataLayer.pdb
+G:\Queue\Queue-Api\Gx.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Gx.WebApi.deps.json

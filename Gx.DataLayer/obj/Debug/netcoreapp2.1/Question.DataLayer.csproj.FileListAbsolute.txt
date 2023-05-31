@@ -1,0 +1,10 @@
+G:\Question\QuestionApi\Question.DataLayer\bin\Debug\netcoreapp2.1\Question.DataLayer.deps.json
+G:\Question\QuestionApi\Question.DataLayer\bin\Debug\netcoreapp2.1\Question.DataLayer.dll
+G:\Question\QuestionApi\Question.DataLayer\bin\Debug\netcoreapp2.1\Question.DataLayer.pdb
+G:\Question\QuestionApi\Question.DataLayer\obj\Debug\netcoreapp2.1\Question.DataLayer.csproj.AssemblyReference.cache
+G:\Question\QuestionApi\Question.DataLayer\obj\Debug\netcoreapp2.1\Question.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Question\QuestionApi\Question.DataLayer\obj\Debug\netcoreapp2.1\Question.DataLayer.AssemblyInfoInputs.cache
+G:\Question\QuestionApi\Question.DataLayer\obj\Debug\netcoreapp2.1\Question.DataLayer.AssemblyInfo.cs
+G:\Question\QuestionApi\Question.DataLayer\obj\Debug\netcoreapp2.1\Question.DataLayer.csproj.CoreCompileInputs.cache
+G:\Question\QuestionApi\Question.DataLayer\obj\Debug\netcoreapp2.1\Question.DataLayer.dll
+G:\Question\QuestionApi\Question.DataLayer\obj\Debug\netcoreapp2.1\Question.DataLayer.pdb

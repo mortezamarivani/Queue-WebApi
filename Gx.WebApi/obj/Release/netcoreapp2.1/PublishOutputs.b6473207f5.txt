@@ -1,0 +1,11 @@
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.Development.json
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Planning.WebApi.dll
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Planning.WebApi.runtimeconfig.json
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Planning.WebApi.pdb
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\dotnet-ef.dll
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Planning.Core.dll
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Planning.DataLayer.dll
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Planning.Core.pdb
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Planning.DataLayer.pdb
+G:\Planing\PlanningApi\Planning.WebApi\obj\Release\netcoreapp2.1\PubTmp\Out\Planning.WebApi.deps.json

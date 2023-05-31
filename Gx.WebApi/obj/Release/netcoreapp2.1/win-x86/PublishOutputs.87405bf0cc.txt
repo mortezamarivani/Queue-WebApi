@@ -1,0 +1,12 @@
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.WebApi.exe
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\appsettings.Development.json
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\appsettings.json
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.WebApi.dll
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.WebApi.runtimeconfig.json
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.WebApi.pdb
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\dotnet-ef.dll
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.Core.dll
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.DataLayer.dll
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.Core.pdb
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.DataLayer.pdb
+G:\Question\QuestionApi\Question.WebApi\obj\Release\netcoreapp2.1\win-x86\PubTmp\Out\Question.WebApi.deps.json

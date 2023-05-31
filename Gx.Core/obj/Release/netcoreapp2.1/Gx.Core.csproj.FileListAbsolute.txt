@@ -1,0 +1,13 @@
+G:\Queue\Queue-Api\Gx.Core\bin\Release\netcoreapp2.1\Gx.Core.deps.json
+G:\Queue\Queue-Api\Gx.Core\bin\Release\netcoreapp2.1\Gx.Core.dll
+G:\Queue\Queue-Api\Gx.Core\bin\Release\netcoreapp2.1\Gx.Core.pdb
+G:\Queue\Queue-Api\Gx.Core\bin\Release\netcoreapp2.1\Gx.DataLayer.dll
+G:\Queue\Queue-Api\Gx.Core\bin\Release\netcoreapp2.1\Gx.DataLayer.pdb
+G:\Queue\Queue-Api\Gx.Core\obj\Release\netcoreapp2.1\Gx.Core.csproj.AssemblyReference.cache
+G:\Queue\Queue-Api\Gx.Core\obj\Release\netcoreapp2.1\Gx.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Queue\Queue-Api\Gx.Core\obj\Release\netcoreapp2.1\Gx.Core.AssemblyInfoInputs.cache
+G:\Queue\Queue-Api\Gx.Core\obj\Release\netcoreapp2.1\Gx.Core.AssemblyInfo.cs
+G:\Queue\Queue-Api\Gx.Core\obj\Release\netcoreapp2.1\Gx.Core.csproj.CoreCompileInputs.cache
+G:\Queue\Queue-Api\Gx.Core\obj\Release\netcoreapp2.1\Gx.Core.csproj.CopyComplete
+G:\Queue\Queue-Api\Gx.Core\obj\Release\netcoreapp2.1\Gx.Core.dll
+G:\Queue\Queue-Api\Gx.Core\obj\Release\netcoreapp2.1\Gx.Core.pdb

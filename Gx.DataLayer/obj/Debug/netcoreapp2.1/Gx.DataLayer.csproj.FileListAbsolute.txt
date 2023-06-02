@@ -17,3 +17,4 @@ G:\Queue\Queue-Api\Gx.DataLayer\obj\Debug\netcoreapp2.1\Gx.DataLayer.AssemblyInf
 G:\Queue\Queue-Api\Gx.DataLayer\obj\Debug\netcoreapp2.1\Gx.DataLayer.csproj.CoreCompileInputs.cache
 G:\Queue\Queue-Api\Gx.DataLayer\obj\Debug\netcoreapp2.1\Gx.DataLayer.dll
 G:\Queue\Queue-Api\Gx.DataLayer\obj\Debug\netcoreapp2.1\Gx.DataLayer.pdb
+G:\Queue\Queue-Api\Gx.DataLayer\obj\Debug\netcoreapp2.1\Gx.DataLayer.csproj.AssemblyReference.cache

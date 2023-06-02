@@ -87,6 +87,22 @@ namespace Gx.Core.Services.Implementations
             return LoginUserResult.Success;
         }
 
+
+        public async Task<LoginUserResult> LoginUserWithOtp(OtpDTO OtpDTO)
+        {
+
+            var user = await userRepository.GetEntitiesQuery()
+                .SingleOrDefaultAsync(s => s.Phone == OtpDTO.Phone
+                && s.Otp == OtpDTO.Otp);
+
+            if (user == null) return LoginUserResult.IncorrectData;
+
+            if (!user.IsActivated) return LoginUserResult.NotActivated;
+
+            return LoginUserResult.Success;
+        }
+
+
         public async Task<Users> GetUserByEmail(string email)
         {
             return await userRepository.GetEntitiesQuery().SingleOrDefaultAsync(s => s.Email == email.ToLower().Trim());
@@ -96,6 +112,12 @@ namespace Gx.Core.Services.Implementations
         {
             return await userRepository.GetEntitiesQuery().SingleOrDefaultAsync(s => s.UserName.ToLower().Trim() == username.ToLower().Trim());
         }
+
+        public async Task<Users> GetUserByPhone(long phone)
+        {
+            return await userRepository.GetEntitiesQuery().SingleOrDefaultAsync(s => s.Phone == phone);
+        }
+
 
         public async Task<Users> GetUserByUserId(long userId)
         {

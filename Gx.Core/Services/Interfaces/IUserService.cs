@@ -12,8 +12,11 @@ namespace Gx.Core.Services.Interfaces
         Task<RegisterUserResult> RegisterUser(RegisterUserDTO register);
         bool IsUserExistsByEmail(string email);
         Task<LoginUserResult> LoginUser(LoginUserDTO login);
+        Task<LoginUserResult> LoginUserWithOtp(OtpDTO OtpDTO);
         Task<Users> GetUserByEmail(string email);
         Task<Users> GetUserByUserName(string userName);
         Task<Users> GetUserByUserId(long userId);
+        Task<Users> GetUserByPhone(long phone);
+
     }
 }

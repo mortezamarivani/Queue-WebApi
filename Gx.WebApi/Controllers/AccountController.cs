@@ -103,6 +103,56 @@ namespace Gx.WebApi.Controllers
             return JsonResponseStatus.Error();
         }
 
+
+        [HttpPost("login-otp")]
+        public async Task<IActionResult> Loginotp([FromBody] OtpDTO OtpDTO)
+        {
+            if (ModelState.IsValid)
+            {
+                var res = await userService.LoginUserWithOtp(OtpDTO);
+
+                switch (res)
+                {
+                    case LoginUserResult.IncorrectData:
+                        return JsonResponseStatus.NotFound(new { message = "کد وارد شده معتبر نمی باشد" });
+
+                    case LoginUserResult.NotActivated:
+                        return JsonResponseStatus.Error(new { message = "حساب کاربری شما فعال نشده است" });
+
+                    case LoginUserResult.Success:
+                        var user = await userService.GetUserByPhone(OtpDTO.Phone);
+                        var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("AngularEshopJwtBearer"));
+                        var signinCredentials = new SigningCredentials(secretKey, SecurityAlgorithms.HmacSha256);
+                        var tokenOptions = new JwtSecurityToken(
+                            issuer: "https://localhost:44381",
+                            claims: new List<Claim>
+                            {
+                                new Claim(ClaimTypes.Name, user.UserName),
+                                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString())
+                            },
+                            expires: DateTime.Now.AddDays(30),
+                            signingCredentials: signinCredentials
+                        );
+
+                        var tokenString = new JwtSecurityTokenHandler().WriteToken(tokenOptions);
+
+                        return JsonResponseStatus.Success(new
+                        {
+                            token = tokenString,
+                            expireTime = 30,
+                            firstName = user.FirstName,
+                            lastName = user.LastName,
+                            userId = user.Id,
+                            email = user.Email,
+                            userName = user.UserName
+                        });
+                }
+            }
+
+            return JsonResponseStatus.Error();
+        }
+
+
         #endregion
 
         #region Check User Authentication

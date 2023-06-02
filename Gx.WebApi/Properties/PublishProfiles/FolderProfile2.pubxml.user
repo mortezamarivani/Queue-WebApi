@@ -4,7 +4,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <_PublishTargetUrl>G:\Queue\Queue-Api\Oublish</_PublishTargetUrl>
-    <History>True|2023-05-31T12:22:36.5049381Z;False|2023-05-31T05:21:46.2736050-07:00;True|2023-05-31T00:16:01.6427598-07:00;</History>
+    <_PublishTargetUrl>G:\Queue\Queue-Api\Publish</_PublishTargetUrl>
+    <History>True|2023-06-02T10:16:46.3253759Z;True|2023-06-02T03:16:36.4575357-07:00;True|2023-06-02T03:07:06.0125994-07:00;True|2023-06-02T02:59:34.8153888-07:00;True|2023-06-02T02:53:45.6386000-07:00;True|2023-06-02T02:24:49.8275175-07:00;True|2023-06-02T02:08:08.8738267-07:00;True|2023-05-31T05:22:36.5049381-07:00;False|2023-05-31T05:21:46.2736050-07:00;True|2023-05-31T00:16:01.6427598-07:00;</History>
   </PropertyGroup>
 </Project>

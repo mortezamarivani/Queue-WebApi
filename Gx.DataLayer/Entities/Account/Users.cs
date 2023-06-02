@@ -46,6 +46,12 @@ namespace Gx.DataLayer.Entities.Account
         [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
         public long Phone { get; set; }
 
+        [Display(Name = "Otp")]
+        public long Otp { get; set; }
+
+        [Display(Name = "Token")]
+        public string Token { get; set; }
+
 
         #endregion
 
